@@ -1,4 +1,4 @@
-package ru.pestovaalina;
+package ru_pestovaalina;
 
 public class Main {
     public static void main(String[] args) {
